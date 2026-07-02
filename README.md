@@ -1,6 +1,10 @@
 # bloom-chandelier
 Interactive chandelier that lights and sounds respond to people approaching, using time-of-flight sensors, an ESP32, and a Raspberry Pi.
 
+## Demo
+
+▶️ **[Watch it in action on Instagram](https://www.instagram.com/p/DaQSBc3xLLd/)**
+
 ## How it works
 
 - An **ESP32** reads the 8 sensors, drives the LED strip, and streams distance
