@@ -74,8 +74,8 @@ don't overlap avoids both electrical and optical interference.
 
 ### Sound samples
 
-The audio uses four pad samples (C2, C3, C4, C5) as pitch anchors. I used
-pads from [Pianobook](https://www.pianobook.co.uk/). Source your own samples
+The audio uses four pad samples (C2, C3, C4, C5) as pitch anchors. I used the Niue
+pads by Fabian Siethoff from [Pianobook](https://www.pianobook.co.uk/). Source your own samples
 and update the file paths and `ZONE_NOTES` in the Pi script. The script
 pitch-shifts these anchors by small intervals to build an 8 note C major
 pentatonic and processes each into a seamless loop.
