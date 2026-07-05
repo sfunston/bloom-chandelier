@@ -38,12 +38,12 @@ don't overlap avoids both electrical and optical interference.
 
 ## Hardware
 
-- **ESP32**. Adafruit HUZZAH32 Feather
+- **ESP32**  Adafruit HUZZAH32 Feather
 - **8× VL53L1X**  time of flight distance sensors (STEMMA QT)
 - **PCA9548 / TCA9548**  8-channel I2C multiplexer (address 0x70)
 - **DotStar LED strip**  60 LED per m, warm white, trimmed to 59 LEDs, mounted on
   a ring hung inside the chandelier among the crystals
-- **Raspberry Pi 4B**. runs the audio synthesis
+- **Raspberry Pi 4B**  runs the audio synthesis
 - **Khadas Tone Board**  USB DAC
 - **Powered speaker** (line-in / aux)
 - Separate 5V supply for the LED strip
@@ -57,7 +57,7 @@ don't overlap avoids both electrical and optical interference.
 - The LED strip needs its own 5V supply. The strip's ground, the supply
   ground, and the ESP32 ground must all be common.
 - ESP32 -> Pi over USB (serial, 115200 baud).
-- Pi -> Tone Board over USB (data cable). Tone Board → speaker over RCA to 3.5mm.
+- Pi -> Tone Board over USB (data cable). Tone Board -> speaker over RCA to 3.5mm.
 
 
 ### Dependencies
