@@ -3,7 +3,7 @@ Interactive chandelier that lights and sounds respond to people approaching, usi
 
 ## Demo
 
-▶️ **[Watch it in action on Instagram](https://www.instagram.com/p/DaQSBc3xLLd/)**
+▶️ **[Watch it in action](https://youtube.com/shorts/UMZrd-m6ksE?is=RXZhJFiG_63G6flF)**
 
 ## How it works
 
